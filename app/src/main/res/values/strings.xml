@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlixBus</string>
+    <string name="direction_route">Direction/Route</string>
+    <string name="show_error_getting_data">Error getting data from server</string>
+    <string name="departure">Departure</string>
+</resources>
